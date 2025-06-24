@@ -6,7 +6,11 @@
 //
 // Author: Roberto Alfano
 ////////////////////////////////////////////
-
+/*
+ * Copyright (c) 2025, Roberto Alfano
+ * Licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+ * See: https://creativecommons.org/licenses/by-nc/4.0/
+ */
 #include "TROOT.h"
 #include "TGraphErrors.h"
 #include "TF1.h"
